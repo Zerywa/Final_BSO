@@ -1,0 +1,9 @@
+/* ==========================================================================
+   AMBARENG — profile.css
+   Gaya khusus halaman Profile (kartu visi, misi, nilai).
+   Dimuat setelah style.css.
+   ========================================================================== */
+
+.feature {
+  border-top: 3px solid var(--copper);
+}
