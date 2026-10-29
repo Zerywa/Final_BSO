@@ -18,11 +18,19 @@ AMBARENG
 1. Fitur home, fitur yang berisi tentang pengenalan umum dan pengenalan awal toko AMBARENG. 
 2. Fitur profil, fitur informasi yang berisi pengenalan lebih lanjut dan latar belakang toko AMBARENG.
 3. Fitur main content, berisi menu-menu andalan yang tersedia di toko AMBARENG.
-4. Fitur contact, fitur pelayanan di mana user dapat langsung menghubungi admin AMBARENG melalui akun media sosial ataupun email atau WA ketika ada keluhan maupun keperluan.
+4. Fitur contact, fitur pelayanan di mana user dapat langsung menghubungi admin AMBARENG melalui akun media sosial ataupun email atau WA ketika ada keluhan maupun
+   keperluan.
+
 Teknologi yang digunakan:
-HTML, CSS, VSCODE,GITHUB,Claude AI,ChatGPT
+HTML, CSS, VSCODE, GITHUB, Claude Fable 5.1, ChatGPT Astra.
 
 HOW TO RUN
 1. Download source file final_BSO 
 2. Extract file final_BSO yang berbentuk ZIP
 3. Tinggal jalankan saja file nya, bisa di jalankan dari home.html/profile.html/main-content.html/footer-contact.html
+
+Pembagian Tugas
+Raga Al Banjari/raga-537 -- Membuat bagian home usaha kami.
+Tegar Pambudi Ramadhan/NiskalaDieScuzengarben-dot -- Membuat bagian kontak/cara menghubungi usaha Ambareng.
+Ahmad Fakhri Al-Husain/Ahmdflhsn -- Membuat bagian konten utama yang berisi menu-menu kami.
+Zen Krwan Widiwa/Zerywa -- Membuat bagian profile usaha kami.
