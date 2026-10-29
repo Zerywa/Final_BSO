@@ -1,8 +1,3 @@
-/* ==========================================================================
-   AMBARENG — contact.css
-   Gaya khusus halaman Kontak. Dimuat setelah style.css.
-   ========================================================================== */
-
 /* Tautan di dalam kartu kontak */
 .contact-card a {
   color: var(--gold);
